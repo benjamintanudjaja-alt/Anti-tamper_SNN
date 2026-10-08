@@ -1,0 +1,9 @@
+# Vivado generated directories and files
+vivado/
+.Xil/
+*.jou
+*.log
+*.str
+
+# Temporary archives
+*.zip
